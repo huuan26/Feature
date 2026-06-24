@@ -22,19 +22,13 @@ Dự án phân loại và triển khai **7 nhóm nhân tố Alpha** chính trong
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## 🛠️ Thư viện sử dụng
 
 - **Backtrader** — Framework backtesting
 - **Python 3.x** — Ngôn ngữ chính
 - **NumPy** — Tính toán số học
 - **Math** — Các phép toán cơ bản
 
----
-
-## 📂 Cấu trúc dự án
-.
-├── README.md
-└── alpha_factors.ipynb # Notebook tổng hợp toàn bộ indicator
 ---
 
 ## 📖 Nội dung nghiên cứu
